@@ -10,3 +10,5 @@ i watched many if not all the video resources provided, skimming through videos 
 i managed to get both motors running with a switch forward and backward using an if else statement for the switches.
 sadly i could not get both motors to rotate in the opposite direction because it seemed like everytime i tried to add this code to the third and fourth switch buttons, the first two incidentally stopped working, so i left them out.
 before i go to the dip switch however i learned how to use the potentiometer by watching youtube tutorials.
+this was also my first time using github as well, so i apologize if it isn't as visually apealing as is expected.
+I hope to further develop my knowledge in using github, in coding and in creating circuitsfor the future!
